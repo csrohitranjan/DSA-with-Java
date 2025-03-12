@@ -1,7 +1,7 @@
 public class Assign7 {
     public static void main(String[] args) {
         try {
-            Stack s1 = new Stack(5);
+            // Stack s1 = new Stack(5);
         } catch (Exception e) {
             e.printStackTrace();
         }
